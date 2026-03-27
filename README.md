@@ -1,4 +1,4 @@
-# TranslationMatcher #
+# Bilingual Book Creator #
 
 is a tool that takes two texts, where one is the translation of the other. 
 
